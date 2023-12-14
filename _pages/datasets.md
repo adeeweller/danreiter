@@ -4,7 +4,9 @@ tocsticky: false
 author_profile: true
 permalink: /datasets/
 title: "Datasets"
+classes: wide
 ---
+
 
 These are data sets that I and my various coauthors have produced, also accessible through the [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/dreiter).
 
