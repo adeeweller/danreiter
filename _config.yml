@@ -19,14 +19,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Samuel Candler Dobbs Professor of Political Science at Emory University. Studies war termination, civil-military relations and effectiveness, and public opinion.
 twitter_username: 
 github_username: 
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /pages/home.md
+permalink: /pages/about.md
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
