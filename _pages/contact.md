@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Email
-You can reach me at adee[dot]weller[at]emory[dot]edu
+You can reach me at dreiter[at]emory[dot]edu
 
 ## Mailing Address
 1555 Dicky Drive \\
