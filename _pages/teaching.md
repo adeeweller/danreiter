@@ -4,9 +4,8 @@ tocsticky: false
 author_profile: true
 permalink: /teaching/
 title: "Teaching"
+classes: wide
 ---
-
-<br>
 
 Syllabi from previously taught classes, all offered in the Department of Political Science, Emory University
 (Note: I list here only the most recent versions of syllabi)
