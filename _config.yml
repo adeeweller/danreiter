@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Samuel Candler Dobbs Professor of Political Science at Emory University. Studies war termination, civil-military relations and effectiveness, and public opinion.
 twitter_username: 
 github_username: 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
