@@ -1,6 +1,7 @@
 ---
 permalink: /personal/
 title: "Personal"
+classes: wide
 ---
 
 I was born in Ann Arbor, Michigan in 1967, to Leon and Harriet Reiter. I married Carolann Charen (now Carolann Charen Reiter) on May 30, 1999; here’s a wedding picture. I have two children, Noah Charen Reiter, born in 2002, and Zev Franklin Reiter, born in 2005. Here are the two boys just after Zev was born. Noah's photos include a July 4, 2003 picture, a Halloween 2003 picture, a Chanukah 2003 picture, an April 2004 picture from his second birthday party, and an August 2004 picture from a family vacation at Stinson Beach, California. Here is a picture of Zev at about 2 months. Here is a picture from their double birthday party in May 2008, when Zev turned 3 and Noah turned 6. Here is a picture of Noah at his 8th birthday party in April 2010.
