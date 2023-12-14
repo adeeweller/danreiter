@@ -35,9 +35,9 @@ include:
   - _pages
 
 # # test
-# links:
-#   - title: Home
-#     url: /about/
+links:
+  - title: Home
+    url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
