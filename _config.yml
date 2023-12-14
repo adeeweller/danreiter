@@ -30,16 +30,16 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /home/
 paginate: 1 # amount of posts to show
-paginate_path: /pages/about.md
+paginate_path: /_pages/about.md
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
 # # test
-links:
-  - title: Home
-    url: /about/
+# links:
+#   - title: Home
+#     url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
