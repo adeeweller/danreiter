@@ -4,6 +4,7 @@ tocsticky: false
 author_profile: true
 permalink: /research/
 title: "Research"
+classes: wide
 ---
 > ## Articles
 > 
