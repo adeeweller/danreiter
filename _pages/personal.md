@@ -7,19 +7,7 @@ classes: wide
 **Info Notice:** This site is currently under construction. Check back soon.
 {: .notice--info}
 
-I was born in Ann Arbor, Michigan in 1967, to Leon and Harriet Reiter. I married Carolann Charen (now Carolann Charen Reiter) on May 30, 1999; here’s a wedding picture. I have two children, Noah Charen Reiter, born in 2002, and Zev Franklin Reiter, born in 2005. Here are the two boys just after Zev was born. Noah's photos include a July 4, 2003 picture, a Halloween 2003 picture, a Chanukah 2003 picture, an April 2004 picture from his second birthday party, and an August 2004 picture from a family vacation at Stinson Beach, California. Here is a picture of Zev at about 2 months. Here is a picture from their double birthday party in May 2008, when Zev turned 3 and Noah turned 6. Here is a picture of Noah at his 8th birthday party in April 2010.
-
-My older brother, Ehud, is married to Ann. They are the parents of Miriam, Moshe, and Naomi. My younger brother, David, is married to Alissa. They are the parents of Sam and Eve.
-
-I graduated with a B.A. in political science from Northwestern University in 1989. I received my Ph.D. in political science from the University of Michigan in 1994. After a post-doctoral fellowship at the John M. Olin Institute for Strategic Studies at Harvard University, I began teaching at Emory University in 1995, where I remain today.
-
-I enjoy rock climbing, though I haven’t done much climbing since becoming a parent. Here are some old climbing photos:
-
-This is a photo of me climbing Razorworm (5.9), located at the Tennessee Wall near Chattanooga, Tennessee.
-
-This is a photo of Petit Grepon (5.8 III), located in Rocky Mountain National Park near Estes Park, Colorado. I climbed it in 1998 with Jason Bremner; here’s a photo of us (I’m on the right) soon after summitting.
-
-I hope eventually to ascend to the highest point in each of the fifty states. So far, I’ve bagged 47 including:
+Some of my primary personal interests include hiking, bouldering, travel, 1970s films, 1980s heavy metal music, Japanese fiction, and University of Michigan sports. Come to think of it, sports of all kinds. One of my lifetime projects is to climb the highest point in each of the fifty states. So far, I have bagged forty-seven, including:
 
 California, 2001 (el. 14,494 ft.)
 
@@ -114,6 +102,8 @@ Louisiana, 2002 (el. 535 ft.)
 Delaware (el. 448 ft.)
 
 Florida, 2001 (el. 345 ft.)
+
+
 
 And:
 
