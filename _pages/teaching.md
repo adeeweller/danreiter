@@ -6,6 +6,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+<br>
+
 Syllabi from previously taught classes, all offered in the Department of Political Science, Emory University
 (Note: I list here only the most recent versions of syllabi)
 
