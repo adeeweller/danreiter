@@ -24,3 +24,11 @@ Brian Greenhill and Dan Reiter. 2022. "[Naming and shaming, government messaging
 
 
 > ## Books
+>
+> Dan Reiter. 1996. [Crucible of Beliefs: Learning, Alliances, and World Wars](https://www.amazon.com/Crucible-Beliefs-Learning-Alliances-Security/dp/0801431883). Cornell University Press. ISBN-10: 0801431883.
+>
+> Dan Reiter and Allan C. Stam. 2002. [Democracies at War](https://www.amazon.com/Democracies-at-War-Dan-Reiter/dp/0691089493/ref=sr_1_1?s=books&ie=UTF8&qid=1538355928&sr=1-1&keywords=democracies+at+war). Princeton University Press. ISBN-10: 0691089493.
+>
+> Dan Reiter. 2009. [How Wars End](https://www.amazon.com/How-Wars-End-Dan-Reiter/dp/069114060X). Princeton University Press. ISBN-10: 069114060X.
+>
+> Dan Reiter (editor). 2017. [The Sword’s Other Edge: Tradeoffs in the Pursuit of Military Effectiveness](https://www.amazon.com/Swords-Other-Edge-Trade-offs-Effectiveness/dp/1108404138/ref=sr_1_1?s=books&ie=UTF8&qid=1538355987&sr=1-1&keywords=The+Sword%E2%80%99s+Other+Edge%3A+Tradeoffs+in+the+Pursuit+of+Military+Effectiveness). Cambridge University Press. ISBN-10: 1108404138.
