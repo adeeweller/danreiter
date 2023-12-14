@@ -37,7 +37,7 @@ include:
 # # test
 # links:
 #   - title: Home
-#     url: /home/
+#     url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
