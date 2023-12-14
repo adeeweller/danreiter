@@ -10,9 +10,6 @@ classes: wide
 **Info Notice:** This site is currently under construction. Check back soon.
 {: .notice--info}
 
-**Info Notice:** This site is currently under construction. Check back soon.
-{: .notice--info}
-
 Syllabi from previously taught classes, all offered in the Department of Political Science, Emory University.
 
 (Note: I list here only the most recent versions of syllabi.)
