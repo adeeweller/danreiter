@@ -1,6 +1,7 @@
 ---
 permalink: /CV/
 title: "CV"
+classes: wide
 ---
 
 
