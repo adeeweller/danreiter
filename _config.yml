@@ -63,7 +63,7 @@ plugins:
 
 author:
   name     : "Dan Reiter"
-  avatar   : "/assets/images/headshot-reiter-dan.jpg"
+  avatar   : "/assets/images/headshot_reiter_dan.jpg"
   bio      : "Samuel Candler Dobbs Professor of Political Science at Emory University. Studies war termination, civil-military relations and effectiveness, and public opinion."
   location : "Atlanta, Georgia"
   links:
