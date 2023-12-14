@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adee Weller
-email: adee.weller@emory.edu
+title: Dan Reiter
+email: dreiter@emory.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Ph.D. candidate in Political Science at Emory University. I study violent economic groups, like criminal groups and armed corporations, and their intersection with politics.
-twitter_username: AdeeWeller
-github_username: adeeweller
+  Samuel Candler Dobbs Professor of Political Science at Emory University. Studies war termination, civil-military relations and effectiveness, and public opinion.
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: default
 search: true
 
@@ -62,35 +62,35 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "Adee Weller"
-  avatar   : "/assets/images/Weller_fix_1.jpg"
-  bio      : "I am a Ph.D. candidate in Political Science at Emory University. I study violent economic groups, like criminal groups and armed corporations, and their intersections with politics."
+  name     : "Dan Reiter"
+  avatar   : "/assets/images/headshot-reiter-dan.jpg"
+  bio      : "Samuel Candler Dobbs Professor of Political Science at Emory University. Studies war termination, civil-military relations and effectiveness, and public opinion."
   location : "Atlanta, Georgia"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://adeeweller.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adee-weller"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/adeeweller"
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
+    #- label: "Linkedin"
+    #  icon: "fab fa-fw fa-linkedin"
+    #  url: "https://www.linkedin.com/in/adee-weller"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/adeeweller"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/adeeweller/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/adeeweller"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/adeeweller"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/adeeweller/"
