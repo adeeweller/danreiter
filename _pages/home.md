@@ -1,7 +1,7 @@
 ---
-permalink: /about/
-title: "About"
-layout: single
+permalink: /home/
+title: "Home"
+layout: splash
 classes: wide
 ---
 
