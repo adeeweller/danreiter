@@ -103,7 +103,17 @@ Dan Reiter and Curtis Meek. 1999. "[Determinants of military strategy, 1903–19
 Dan Reiter. 1999. "[Military strategy and the outbreak of international conflict: Quantitative empirical tests, 1903-1992](https://journals-sagepub-com/doi/abs/10.1177/0022002799043003005)." *Journal of Conflict Resolution*. 43(3): 366-387.
 
 
+Dan Reiter and Allan C. Stam. 1998. “[Democracy, War Initiation, and Victory](https://www-jstor-org/stable/2585670?seq=1).” *American Political Science Review*. 92(2): 377-389.
 
+Dan Reiter and Allan C. Stam. 1998. “[Democracy and Battlefield Military Effectiveness](https://www-jstor-org/stable/174514?seq=1#page_scan_tab_contents).” *Journal of Conflict Resolution*. 42(243): 259-277.
+
+David Rousseau, Christopher Gelpi, Dan Reiter, and Paul K. Huth. 1996. “[Assessing the Dyadic Nature of the Democratic Peace, 1918-1988](https://www.jstor.org/stable/2082606).” *American Political Science Review* 90(3): 512-533.
+
+Dan Reiter. 1995. “[Political Structure and Foreign Policy Learning: Are Democracies More Likely to Act on the Lessons of History?](https://doi-org/10.1080/03050629508434859)” *International Interactions*. 21(1): 39-62.
+
+Dan Reiter. 1995. “[Exploding the Powder Keg Myth: Preemptive Wars Almost Never Happen](https://www.jstor.org/stable/2539227).” *International Security*, 20(3): 5-34.
+
+Dan Reiter. 1994. “[Learning, Realism, and Alliances: The Weight of the Shadow of the Past](https://www-cambridge-org/core/journals/world-politics/article/abs/learning-realism-and-alliances-the-weight-of-the-shadow-of-the-past/98D46FD385AEACB9B762C6F70312BD8D).” *World Politics*. 46(3): 490-526. Reprinted in Christine Ingebritsen, Iver Neumann, Sieglinde Gstöhle, and Jessica Beyer, eds., *Small States in International Relations* (Seattle: University of Washington Press, 2006, 231- 272).
 
 
 
