@@ -28,23 +28,25 @@ Dan Reiter and Paul Roast. 2021. "[The Truth About Tripwires: Why Small Force De
 
 Dan Reiter. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://academic-oup-com/fpa/article-pdf/doi/10.1093/fpa/oraa001/33403138/oraa001.pdf)." *Foreign Policy Analysis*. 16(3): 312-331.
 
-Joshua C. Fjestul and Dan Reiter. 2019. "[Explaining incompleteness and conditionality in alliance agreements](https://www-tandfonline-com/doi/abs/10.1080/03050629.2019.1647838)." *International Interactions*. 45(6): 976-1002.
+Joshua C. Fjestul and Dan Reiter. 2019. "[Explaining incompleteness and conditionality in alliance agreements](https://doi-org.proxy.library.emory.edu/10.1093/fpa/oraa001)." *International Interactions*. 45(6): 976-1002.
 
-Dan Reiter and William A. Wagstaff. 2018. "[Leadership and military effectiveness](https://academic-oup-com/fpa/article-pdf/doi/10.1093/fpa/orx003/25996266/orx003.pdf)." *Foreign Policy Analysis*. 14(4): 490-511.
+Dan Reiter and William A. Wagstaff. 2018. "[Leadership and military effectiveness](https://doi-org.proxy.library.emory.edu/10.1093/fpa/orx003)." *Foreign Policy Analysis*. 14(4): 490-511.
 
-Dan Reiter. 2018. "[Unifying the Study of the Causes and Duration of Wars](https://www-journals-uchicago-edu/doi/abs/10.1086/696288)." *Polity*. 50(2): 168-177.
+Dan Reiter. 2018. "[Unifying the Study of the Causes and Duration of Wars](https://doi.org/10.1086/696288)." *Polity*. 50(2): 168-177.
 
-Dan Reiter. 2017. "[Foreign-Imposed Regime Change](https://oxfordre-com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-335)." *Oxford Research Encyclopedia of Politics*.
+Dan Reiter. 2017. "[Foreign-Imposed Regime Change](https://doi-org.proxy.library.emory.edu/10.1093/acrefore/9780190228637.013.335)." *Oxford Research Encyclopedia of Politics*.
 
-Dan Reiter. 2017. "[Is democracy a cause of peace?](https://oxfordre-com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-287?rskey=wxm06c)." *Oxford Research Encyclopedia of Politics*.
+Dan Reiter. 2017. "[Is democracy a cause of peace?](https://doi-org.proxy.library.emory.edu/10.1093/acrefore/9780190228637.013.287)." *Oxford Research Encyclopedia of Politics*.
 
-Dan Reiter, Allan C. Stam, and Michael C. Horowitz. 2016. "[A revised look at interstate wars, 1816–2007](https://journals-sagepub-com/doi/full/10.1177/0022002714553107)." *Journal of Conflict Resolution*. 60(5): 956-976.
+Dan Reiter, Allan C. Stam, and Michael C. Horowitz. 2016. "[A revised look at interstate wars, 1816–2007](https://doi-org.proxy.library.emory.edu/10.1177/0022002714553107)." *Journal of Conflict Resolution*. 60(5): 956-976.
 
-Dan Reiter, Allan C. Stam, and Michael C. Horowitz. 2016. "[A deeper look at interstate war data: Interstate War Data version 1.1](https://journals-sagepub-com/doi/full/10.1177/2053168016683840)." *Research & Politics*. 3(4).
+Dan Reiter, Allan C. Stam, and Michael C. Horowitz. 2016. "[A deeper look at interstate war data: Interstate War Data version 1.1](https://doi-org.proxy.library.emory.edu/10.1177/2053168016683840)." *Research & Politics*. 3(4).
 
-Dan Reiter. 2015. "[Should we leave behind the subfield of international relations?](https://www-annualreviews-org/doi/abs/10.1146/annurev-polisci-053013-041156)." *Annual Review of Political Science*. 18: 481-499.
+Dan Reiter. 2015. "[Should we leave behind the subfield of international relations?](https://doi-org.proxy.library.emory.edu/10.1146/annurev-polisci-053013-041156)." *Annual Review of Political Science*. 18: 481-499.
 
-Dan Reiter. 2015. "[The positivist study of gender and international relations](https://journals-sagepub-com/doi/full/10.1177/0022002714560351)." *Journal of Conflict Resolution*. 59(7): 1301-1326.
+Dan Reiter. 2015. "[The positivist study of gender and international relations](https://www.jstor.org/stable/24546341)." *Journal of Conflict Resolution*. 59(7): 1301-1326.
+
+KEEP WORKING HERE
 
 Dan Reiter. 2014. "[Security commitments and nuclear proliferation](https://academic-oup-com/fpa/article-abstract/10/1/61/1824345)." *Foreign Policy Analysis*. 10(1): 61-80.
 
