@@ -12,9 +12,9 @@ classes: wide
 
 > ## Articles
 
-Stefano Jud and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations.](https://www-tandfonline-com/action/showCitFormats?doi=10.1080%2F03050629.2023.2264464)." *International Interactions*. 49(6): 904-934.
+Stefano Jud and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions*. 49(6): 904-934.
 
-Dan Reiter. 2023. "[Command and military effectiveness in rebel and hybrid battlefield coalitions](https://www-tandfonline-com/doi/full/10.1080/01402390.2021.2002692)." *Journal of Strategic Studies*. 45(2): 211-233.
+Dan Reiter. 2023. "[Command and military effectiveness in rebel and hybrid battlefield coalitions](https://doi-org.proxy.library.emory.edu/10.1080/01402390.2021.2002692)." *Journal of Strategic Studies*. 45(2): 211-233.
 
 Dan Reiter and Scott Wolford. 2022. "[Gender, sexism, and war](https://journals-sagepub-com/doi/full/10.1177/09516298211061151)." *Journal of Theoretical Politics*. 34(1): 59-77.
 
