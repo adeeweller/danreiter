@@ -26,7 +26,7 @@ Dan Reiter. 2021. "[Gulliver Unleashed? International Order, Restraint, and The 
 
 Dan Reiter and Paul Roast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression]( http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review*. 4(3).
 
-Dan Reiter. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://academic-oup-com/fpa/article-pdf/doi/10.1093/fpa/oraa001/33403138/oraa001.pdf)." *Foreign Policy Analysis*. 16(3): 312-331.
+Dan Reiter. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://doi-org.proxy.library.emory.edu/10.1093/fpa/oraa001)." *Foreign Policy Analysis*. 16(3): 312-331.
 
 Joshua C. Fjestul and Dan Reiter. 2019. "[Explaining incompleteness and conditionality in alliance agreements](https://doi-org.proxy.library.emory.edu/10.1093/fpa/oraa001)." *International Interactions*. 45(6): 976-1002.
 
@@ -93,30 +93,27 @@ Dan Reiter. 2001. "[Does peace nature democracy?](https://doi-org.proxy.library.
 
 Michael Horowitz and Dan Reiter. 2001. "[When does aerial bombing work? Quantitative empirical tests, 1917-1999](https://www.jstor.org/stable/3176274)." *Journal of Conflict Resolution*. 45(2): 147-173.
 
-Harvey Waterman, Dessie Zagorcheva and Dan Reiter. 2001. "[NATO and Democracy](https://www-jstor-org/stable/3092095)." *International Security*. 26(3): 221-235.
+Harvey Waterman, Dessie Zagorcheva and Dan Reiter. 2001. "[NATO and Democracy](https://www.jstor.org/stable/3092095)." *International Security*. 26(3): 221-235.
 
-KEEP WORKING HERE
+Dan Reiter. 2001. "[Why NATO enlargement does not spread democracy](https://www.jstor.org/stable/3092133)." *International Security*. 26(4): 41-67.
 
-Dan Reiter. 2001. "[Why NATO enlargement does not spread democracy](https://www-jstor-org/stable/3092133)." *International Security*. 26(4): 41-67.
+Brian Lai and Dan Reiter. 2000. "[Democracy, political similarity, and international alliances, 1816-1992](https://www.jstor.org/stable/174663)." *Journal of Conflict Resolution*. 44(2): 203-227.
 
-Brian Lai and Dan Reiter. 2000. "[Democracy, political similarity, and international alliances, 1816-1992](https://journals-sagepub-com/doi/abs/10.1177/0022002700044002003)." *Journal of Conflict Resolution*. 44(2): 203-227.
+Dan Reiter and Curtis Meek. 1999. "[Determinants of military strategy, 1903–1994: A quantitative empirical test](https://www.jstor.org/stable/2600760)." *International Studies Quarterly*. 43(2): 363-387.
 
-Dan Reiter and Curtis Meek. 1999. "[Determinants of military strategy, 1903–1994: A quantitative empirical test](https://academic-oup-com/isq/article/43/2/363/1806377)." *International Studies Quarterly*. 43(2): 363-387.
+Dan Reiter. 1999. "[Military strategy and the outbreak of international conflict: Quantitative empirical tests, 1903-1992](https://doi-org.proxy.library.emory.edu/10.1177/002200279904300300)." *Journal of Conflict Resolution*. 43(3): 366-387.
 
-Dan Reiter. 1999. "[Military strategy and the outbreak of international conflict: Quantitative empirical tests, 1903-1992](https://journals-sagepub-com/doi/abs/10.1177/0022002799043003005)." *Journal of Conflict Resolution*. 43(3): 366-387.
+Dan Reiter and Allan C. Stam. 1998. “[Democracy, War Initiation, and Victory](https://www.jstor.org/stable/2585670).” *American Political Science Review*. 92(2): 377-389.
 
-
-Dan Reiter and Allan C. Stam. 1998. “[Democracy, War Initiation, and Victory](https://www-jstor-org/stable/2585670?seq=1).” *American Political Science Review*. 92(2): 377-389.
-
-Dan Reiter and Allan C. Stam. 1998. “[Democracy and Battlefield Military Effectiveness](https://www-jstor-org/stable/174514?seq=1#page_scan_tab_contents).” *Journal of Conflict Resolution*. 42(243): 259-277.
+Dan Reiter and Allan C. Stam. 1998. “[Democracy and Battlefield Military Effectiveness](https://www.jstor.org/stable/174514).” *Journal of Conflict Resolution*. 42(243): 259-277.
 
 David Rousseau, Christopher Gelpi, Dan Reiter, and Paul K. Huth. 1996. “[Assessing the Dyadic Nature of the Democratic Peace, 1918-1988](https://www.jstor.org/stable/2082606).” *American Political Science Review* 90(3): 512-533.
 
-Dan Reiter. 1995. “[Political Structure and Foreign Policy Learning: Are Democracies More Likely to Act on the Lessons of History?](https://doi-org/10.1080/03050629508434859)” *International Interactions*. 21(1): 39-62.
+Dan Reiter. 1995. “[Political Structure and Foreign Policy Learning: Are Democracies More Likely to Act on the Lessons of History?](https://doi-org.proxy.library.emory.edu/10.1080/03050629508434859)” *International Interactions*. 21(1): 39-62.
 
 Dan Reiter. 1995. “[Exploding the Powder Keg Myth: Preemptive Wars Almost Never Happen](https://www.jstor.org/stable/2539227).” *International Security*, 20(3): 5-34.
 
-Dan Reiter. 1994. “[Learning, Realism, and Alliances: The Weight of the Shadow of the Past](https://www-cambridge-org/core/journals/world-politics/article/abs/learning-realism-and-alliances-the-weight-of-the-shadow-of-the-past/98D46FD385AEACB9B762C6F70312BD8D).” *World Politics*. 46(3): 490-526. Reprinted in Christine Ingebritsen, Iver Neumann, Sieglinde Gstöhle, and Jessica Beyer, eds., *Small States in International Relations* (Seattle: University of Washington Press, 2006, 231- 272).
+Dan Reiter. 1994. “[Learning, Realism, and Alliances: The Weight of the Shadow of the Past](https://www.jstor.org/stable/2950716).” *World Politics*. 46(3): 490-526. Reprinted in Christine Ingebritsen, Iver Neumann, Sieglinde Gstöhle, and Jessica Beyer, eds., *Small States in International Relations* (Seattle: University of Washington Press, 2006, 231- 272).
 
 
 
