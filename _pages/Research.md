@@ -46,55 +46,56 @@ Dan Reiter. 2015. "[Should we leave behind the subfield of international relatio
 
 Dan Reiter. 2015. "[The positivist study of gender and international relations](https://www.jstor.org/stable/24546341)." *Journal of Conflict Resolution*. 59(7): 1301-1326.
 
-KEEP WORKING HERE
+Dan Reiter. 2014. "[Security commitments and nuclear proliferation](https://www.jstor.org/stable/24910787)." *Foreign Policy Analysis*. 10(1): 61-80.
 
-Dan Reiter. 2014. "[Security commitments and nuclear proliferation](https://academic-oup-com/fpa/article-abstract/10/1/61/1824345)." *Foreign Policy Analysis*. 10(1): 61-80.
+Simon A. Mettler and Dan Reiter. 2013. "[Ballistic missiles and international conflict](https://doi-org.proxy.library.emory.edu/10.1177/00220027124537)." *Journal of Conflict Resolution*. 57(5): 854-880.
 
-Simon A. Mettler and Dan Reiter. 2013. "[Ballistic missiles and international conflict](https://journals-sagepub-com/doi/full/10.1177/0022002712453702)." *Journal of Conflict Resolution*. 57(5): 854-880.
+Dan Reiter. 2012. "[Democracy, deception, and entry into war](https://doi-org.proxy.library.emory.edu/10.1080/09636412.2012.734229)." *Security Studies*. 21(4): 594-623.
 
-Dan Reiter. 2012. "[Democracy, deception, and entry into war](https://www-tandfonline-com/doi/full/10.1080/09636412.2012.734229)." *Security Studies*. 21(4): 594-623.
+Scott Wolford, Dan Reiter, Clifford J. Carrubba. 2011. "[Information, commitment, and war](https://doi-org.proxy.library.emory.edu/10.1177/00220027103939)." *Journal of Conflict Resolution*. 55(4): 556-579.
 
-Scott Wolford, Dan Reiter, Clifford J. Carrubba. 2011. "[Information, commitment, and war](https://journals-sagepub-com/doi/abs/10.1177/0022002710393921)." *Journal of Conflict Resolution*. 55(4): 556-579.
+Goran Peic and Dan Reiter. 2011. "[Foreign-imposed regime change, state power and civil war onset, 1920–2004](https://doi.org/10.1017/S0007123410000426)." *British Journal of Political Science*. 41(3): 453-475.
 
-Goran Peic and Dan Reiter. 2011. "[Foreign-imposed regime change, state power and civil war onset, 1920–2004](https://www-cambridge-org/core/journals/british-journal-of-political-science/article/foreignimposed-regime-change-state-power-and-civil-war-onset-19202004/1226DBF6E9E9DA97534FD3D91A1702F7)." *British Journal of Political Science*. 41(3): 453-475.
+Dan Reiter and John M. Schuessler. 2010. "[FDR, US Entry into World War II, and Selection Effects Theory](https://www.jstor.org/stable/40981247)." *International Security*. 35(2): 176-185.
 
-Dan Reiter and John M. Schuessler. 2010. "[FDR, US Entry into World War II, and Selection Effects Theory](https://www-jstor-org/stable/40981247)." *International Security*. 35(2): 176-185.
+Dan Reiter, Allan C. Stam, and Alexander B. Downes. 2009. "[Another skirmish in the battle over democracies and war](https://www.jstor.org/stable/40389217)." *International Security*. 34(2): 194-204.
 
-Dan Reiter, Allan C. Stam, and Alexander B. Downes. 2009. "[Another skirmish in the battle over democracies and war](https://www-jstor-org/stable/40389217)." *International Security*. 34(2): 194-204.
+Dan Reiter, and Allan C. Stam. 2008. "[Democracy, Peace, and War](https://doi-org.proxy.library.emory.edu/10.1093/oxfordhb/9780199548477.001.0001)", in Donald A. Wittman, and Barry R. Weingast (eds), *The Oxford Handbook of Political Economy*. Oxford Academic Press.
 
-Dan Reiter, and Allan C. Stam. 2008. "[Democracy, Peace, and War](https://doi-org/10.1093/oxfordhb/9780199548477.003.0048)", in Donald A. Wittman, and Barry R. Weingast (eds), *The Oxford Handbook of Political Economy*. Oxford Academic Press.
+Nigel Lo, Barry Hashimoto, and Dan Reiter. 2008. "[Ensuring peace: Foreign-imposed regime change and postwar peace duration, 1914–2001](https://www.jstor.org/stable/40071895)." *International Organization*. 62(4): 717-736.
 
-Nigel Lo, Barry Hashimoto, and Dan Reiter. 2008. "[Ensuring peace: Foreign-imposed regime change and postwar peace duration, 1914–2001](https://www-cambridge-org/core/journals/international-organization/article/ensuring-peace-foreignimposed-regime-change-and-postwar-peace-duration-19142001/DC9CEE80C77B67351DCB867E77F3843F)." *International Organization*. 62(4): 717-736.
+Sara Jackson Wade and Dan Reiter. 2007. "[Does democracy matter? Regime type and suicide terrorism](https://www.jstor.org/stable/27638551)." *Journal of Conflict Resolution*. 51(2): 329-348.
 
-Sara Jackson Wade and Dan Reiter. 2007. "[Does democracy matter? Regime type and suicide terrorism](https://journals-sagepub-com/doi/abs/10.1177/0022002706298137)." *Journal of Conflict Resolution*. 51(2): 329-348.
+Dan Reiter. 2007. "[Nationalism and military effectiveness: post-Meiji Japan](https://www.sup.org/books/title/?id=9800)," in Risa A. Brooks and Elizabeth A. Stanley (eds.), *Creating Military Power: The Sources of Military Effectiveness*. Stanford University Press. 27-54.
 
-Dan Reiter. 2007. "[Nationalism and military effectiveness: post-Meiji Japan](10.11126/stanford/9780804753999.003.0002)," in Risa A. Brooks and Elizabeth A. Stanley (eds.), *Creating Military Power: The Sources of Military Effectiveness*. Stanford University Press. 27-54.
+Dan Reiter. 2006. "[Preventive attacks against nuclear, biological, and chemical weapons programs: The track record](https://doi-org.proxy.library.emory.edu/10.2307/j.ctv11699qp)," in William W. Keller and Gordon R. Mitchell (eds), *Hitting First: Preventive Force in US Security Strategy*. University of Pittsburg Press. 27-44.
 
-Dan Reiter. 2006. "[Preventive attacks against nuclear, biological, and chemical weapons programs: The track record](https://www.files.ethz.ch/isn/46216/Reiter_Preventive_Attacks.pdf)," in William W. Keller and Gordon R. Mitchell (eds), *Hitting First: Preventive Force in US Security Strategy*. University of Pittsburg Press. 27-44.
-
-Dan Reiter. 2006. "[Preventive war and its alternatives: The lessons of history](https://books-google-com/books?hl=en&amp;lr=&amp;id=SF7_svwJZk8C&amp;oi=fnd&amp;pg=PA1&amp;dq=info:Hp5ndtlvySEJ:scholar.google.com&amp;ots=0eHIL0Quop&amp;sig=y3JBRvcIOTL1QCgKJetC9U6eLFc)." *Strategic Studies Institute,* US Army War College.
+Dan Reiter. 2006. "[Preventive war and its alternatives: The lessons of history](https://press.armywarcollege.edu/monographs/714/)." *Strategic Studies Institute,* US Army War College.
 
 Brian Lai and Dan Reiter. 2006. "[Rally ‘round the union jack? Public opinion and the use of force in the United Kingdom, 1948–2001](https://academic-oup-com/isq/article/49/2/255/1796362)." *International Studies Quarterly*. 49(2): 255-272.
 
 Dan Reiter. 2006. "[Preventive attacks against nuclear programs and the “Success” at Osiraq](https://www-tandfonline-com/doi/full/10.1080/10736700500379008)." *Nonproliferation Review*. 12(2): 355-371.
 
-Terrence L. Chapman and Dan Reiter. 2004. "[The United Nations Security Council and the rally’round the flag effect](https://journals-sagepub-com/doi/abs/10.1177/0022002704269353)." *Journal of Conflict Resolution*. 48(6): 886-909.
+Terrence L. Chapman and Dan Reiter. 2004. "[The United Nations Security Council and the rally’round the flag effect](
+https://doi-org.proxy.library.emory.edu/10.1177/0022002704269353)." *Journal of Conflict Resolution*. 48(6): 886-909.
 
-Dan Reiter. 2003. "[Exploring the bargaining model of war](https://www-cambridge-org/core/journals/perspectives-on-politics/article/exploring-the-bargaining-model-of-war/0CD52D9B2684E7485A97F32D648F4926)." *Perspectives on Politics*. 1(1): 27-43.
+Dan Reiter. 2003. "[Exploring the bargaining model of war](https://www.jstor.org/stable/3687811)." *Perspectives on Politics*. 1(1): 27-43.
 
-Janet M Box-Steffensmeier, Dan Reiter, and Christopher Zorn. 2003. "[Nonproportional hazards and event history analysis in international relations](https://journals-sagepub-com/doi/abs/10.1177/0022002702239510)." *Journal of Conflict Resolution*. 47(1): 33-53.
+Janet M Box-Steffensmeier, Dan Reiter, and Christopher Zorn. 2003. "[Nonproportional hazards and event history analysis in international relations](https://doi-org.proxy.library.emory.edu/10.1177/0022002702239510)." *Journal of Conflict Resolution*. 47(1): 33-53.
 
-Dan Reiter and Allan C. Stam. 2003. "[Identifying the culprit: Democracy, dictatorship, and dispute initiation](https://www-cambridge-org/core/journals/american-political-science-review/article/identifying-the-culprit-democracy-dictatorship-and-dispute-initiation/9ED65B4BAC07633068001577454B1224)." *American Political Science Review*. 97(2): 333-337.
+Dan Reiter and Allan C. Stam. 2003. "[Identifying the culprit: Democracy, dictatorship, and dispute initiation](https://www.jstor.org/stable/3118212)." *American Political Science Review*. 97(2): 333-337.
 
-Dan Reiter and Allan C. Stam. 2003. "[Understanding victory: Why political institutions matter](https://muse-jhu-edu/article/46144)." *International Security*. 28(1): 168-179.
+Dan Reiter and Allan C. Stam. 2003. "[Understanding victory: Why political institutions matter](https://www.jstor.org/stable/4137580)." *International Security*. 28(1): 168-179.
 
-Dan Reiter and Erik R. Tillman. 2002. "[Public, legislative, and executive constraints on the democratic initiation of conflict](https://onlinelibrary-wiley-com/doi/abs/10.1111/0022-3816.00147)." *Journal of Politics*. 64(3): 810-826.
+Dan Reiter and Erik R. Tillman. 2002. "[Public, legislative, and executive constraints on the democratic initiation of conflict](https://www.jstor.org/stable/1520114)." *Journal of Politics*. 64(3): 810-826.
 
-Dan Reiter. 2001. "[Does peace nature democracy?](https://onlinelibrary-wiley-com/doi/abs/10.1111/0022-3816.00095)." *Journal of Politics*. 63(3): 935-948.
+Dan Reiter. 2001. "[Does peace nature democracy?](https://doi-org.proxy.library.emory.edu/10.1111/0022-3816.00095)." *Journal of Politics*. 63(3): 935-948.
 
-Michael Horowitz and Dan Reiter. 2001. "[When does aerial bombing work? Quantitative empirical tests, 1917-1999](https://journals-sagepub-com/doi/abs/10.1177/0022002701045002001)." *Journal of Conflict Resolution*. 45(2): 147-173.
+Michael Horowitz and Dan Reiter. 2001. "[When does aerial bombing work? Quantitative empirical tests, 1917-1999](https://www.jstor.org/stable/3176274)." *Journal of Conflict Resolution*. 45(2): 147-173.
 
 Harvey Waterman, Dessie Zagorcheva and Dan Reiter. 2001. "[NATO and Democracy](https://www-jstor-org/stable/3092095)." *International Security*. 26(3): 221-235.
+
+KEEP WORKING HERE
 
 Dan Reiter. 2001. "[Why NATO enlargement does not spread democracy](https://www-jstor-org/stable/3092133)." *International Security*. 26(4): 41-67.
 
