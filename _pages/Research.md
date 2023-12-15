@@ -16,15 +16,15 @@ Stefano Jud and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expro
 
 Dan Reiter. 2023. "[Command and military effectiveness in rebel and hybrid battlefield coalitions](https://doi-org.proxy.library.emory.edu/10.1080/01402390.2021.2002692)." *Journal of Strategic Studies*. 45(2): 211-233.
 
-Dan Reiter and Scott Wolford. 2022. "[Gender, sexism, and war](https://journals-sagepub-com/doi/full/10.1177/09516298211061151)." *Journal of Theoretical Politics*. 34(1): 59-77.
+Dan Reiter and Scott Wolford. 2022. "[Gender, sexism, and war](https://doi-org.proxy.library.emory.edu/10.1177/09516298211061151)." *Journal of Theoretical Politics*. 34(1): 59-77.
 
-Danielle Villa, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed Regime Change: The Signal of Economic Expropriation](https://journals-sagepub-com/doi/full/10.1177/00220027211070604)." *Journal of Conflict Resolution*. 66(4-5): 651-676.
+Danielle Villa, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed Regime Change: The Signal of Economic Expropriation](https://doi-org.proxy.library.emory.edu/10.1177/00220027211070604)." *Journal of Conflict Resolution*. 66(4-5): 651-676.
 
-Brian Greenhill and Dan Reiter. 2022. "[Naming and shaming, government messaging, and backlash effects: Experimental evidence from the Convention Against Torture](https://www-tandfonline-com/doi/full/10.1080/14754835.2021.2011710)." *Journal of Human Rights*. 21(4): 399-418.
+Brian Greenhill and Dan Reiter. 2022. "[Naming and shaming, government messaging, and backlash effects: Experimental evidence from the Convention Against Torture](https://doi-org.proxy.library.emory.edu/10.1080/14754835.2021.2011710)." *Journal of Human Rights*. 21(4): 399-418.
 
-Dan Reiter. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://academic-oup-com/isq/article/65/3/582/6321881)." *International Studies Quarterly*. 65(3): 582-593.
+Dan Reiter. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://doi-org.proxy.library.emory.edu/10.1093/isq/sqab061)." *International Studies Quarterly*. 65(3): 582-593.
 
-Dan Reiter and Paul Roast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression](https://repositories.lib.utexas.edu/items/1fdd0d88-d181-4e2d-b0fb-2599b03c37a6)." *Texas National Security Review*. 4(3).
+Dan Reiter and Paul Roast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression]( http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review*. 4(3).
 
 Dan Reiter. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://academic-oup-com/fpa/article-pdf/doi/10.1093/fpa/oraa001/33403138/oraa001.pdf)." *Foreign Policy Analysis*. 16(3): 312-331.
 
