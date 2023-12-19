@@ -4,7 +4,6 @@ tocsticky: true
 author_profile: false
 permalink: /research/
 title: "Research"
-classes: wide
 ---
 
 **Info Notice:** This site is currently under construction. Check back soon.
