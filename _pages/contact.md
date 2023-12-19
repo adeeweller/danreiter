@@ -8,6 +8,6 @@ author_profile: true
 You can reach me at dreiter[at]emory[dot]edu
 
 ## Mailing Address
-1555 Dicky Drive \\
-Tarbutton 327 \\
+1555 Dickey Drive \\
+Tarbutton Hall, Room 327 \\
 Atlanta, GA, 30322
