@@ -1,7 +1,7 @@
 ---
 toc: false
 tocsticky: false
-author_profile: true
+author_profile: false
 permalink: /teaching/
 title: "Teaching"
 classes: wide
