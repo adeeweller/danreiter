@@ -12,11 +12,11 @@ classes: wide
 
 I teach undergraduate and graduate classes on international relations. Here are some classes I’ve taught recently:
 
-* Political Science, 510, World Politics
+* Political Science 510, World Politics
 
-* Political Science, War and Politics
+* Political Science 374, War and Politics
 
-* Political Science, Nuclear Weapons
+* Political Science 372, Nuclear Weapons
 
-* Political Science, Pacific War
+* Political Science 190, Pacific War
 
