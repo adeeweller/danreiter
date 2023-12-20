@@ -21,7 +21,7 @@ Danielle Villa, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed R
 
 Brian Greenhill and Dan Reiter. 2022. "[Naming and shaming, government messaging, and backlash effects: Experimental evidence from the Convention Against Torture](https://doi-org.proxy.library.emory.edu/10.1080/14754835.2021.2011710)." *Journal of Human Rights*. 21(4): 399-418.
 
-Dan Reiter. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://doi-org.proxy.library.emory.edu/10.1093/isq/sqab061)." *International Studies Quarterly*. 65(3): 582-593.
+Dan Reiter. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://www.dropbox.com/scl/fi/u7787mkowe4thfb8rgx1w/Reiter-ISQ-2021.pdf?rlkey=33mlb2o33enewwq13dd06sstx&dl=0)." *International Studies Quarterly*. 65(3): 582-593.
 
 Dan Reiter and Paul Roast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression]( http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review*. 4(3).
 
