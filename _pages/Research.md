@@ -23,7 +23,7 @@ Brian Greenhill and Dan Reiter. 2022. "[Naming and shaming, government messaging
 
 Dan Reiter. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://www.dropbox.com/scl/fi/u7787mkowe4thfb8rgx1w/Reiter-ISQ-2021.pdf?rlkey=33mlb2o33enewwq13dd06sstx&dl=0)." *International Studies Quarterly*. 65(3): 582-593.
 
-Dan Reiter and Paul Roast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression]( http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review*. 4(3).
+Dan Reiter and Paul Poast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression]( http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review*. 4(3).
 
 Dan Reiter. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://doi-org.proxy.library.emory.edu/10.1093/fpa/oraa001)." *Foreign Policy Analysis*. 16(3): 312-331.
 
