@@ -17,7 +17,7 @@ Dan Reiter. 2023. "[Command and military effectiveness in rebel and hybrid battl
 
 Dan Reiter and Scott Wolford. 2022. "[Gender, sexism, and war](https://doi-org.proxy.library.emory.edu/10.1177/09516298211061151)." *Journal of Theoretical Politics*. 34(1): 59-77.
 
-Danielle Villa, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed Regime Change: The Signal of Economic Expropriation](https://doi-org.proxy.library.emory.edu/10.1177/00220027211070604)." *Journal of Conflict Resolution*. 66(4-5): 651-676.
+Danielle Villa, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed Regime Change: The Signal of Economic Expropriation](https://doi-org.proxy.library.emory.edu/10.1177/00220027211070604)." *Journal of Conflict Resolution*. 66(4-5): 651-676. 
 
 Brian Greenhill and Dan Reiter. 2022. "[Naming and shaming, government messaging, and backlash effects: Experimental evidence from the Convention Against Torture](https://doi-org.proxy.library.emory.edu/10.1080/14754835.2021.2011710)." *Journal of Human Rights*. 21(4): 399-418.
 
