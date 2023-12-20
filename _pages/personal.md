@@ -11,7 +11,7 @@ Some of my primary personal interests include hiking, bouldering, travel, 1950s 
 
 [California, 2001](assets/images/cawhitney.jpe) (el. 14,494 ft.)
 
-Colorado, 2009 (el. 14,433 ft.)
+[Colorado, 2009](/assets/images/cawhitney.jpe) (el. 14,433 ft.)
 
 Washington, 2012 (el. 14,409 ft.)
 
