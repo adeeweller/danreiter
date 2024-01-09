@@ -22,48 +22,45 @@ Dan Reiter and Allan C. Stam. 2002. [Democracies at War](https://www.amazon.com/
 
 Reiter, Dan. 1996. [Crucible of Beliefs: Learning, Alliances, and World Wars](https://www.amazon.com/Crucible-Beliefs-Learning-Alliances-Security/dp/0801431883). Cornell: Cornell University Press. 
 
+
 > ## Textbooks
 
-Reiter, Dan. (editor). [Understanding War and Peace](understandingwarandpeace.com).
+Reiter, Dan. eds. 2023, 2024. [Understanding War and Peace](understandingwarandpeace.com). Cambridge, United Kingdom: Cambridge University Press. 
 
 
 > ## Articles, Research Notes, and Correspondence in Refereed Journals
 
-Jud, Stefano and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions*. 49(6): 904-934.
+Jud, Stefano and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions* 49(6): 904-934. doi: 10.1080/03050629.2023.2264464.
 
-Reiter, Dan. 2023. "[Command and military effectiveness in rebel and hybrid battlefield coalitions](https://doi.org/10.1080/01402390.2021.2002692)." *Journal of Strategic Studies*. 45(2): 211-233.
+Reiter, Dan. 2023. "[Command and military effectiveness in rebel and hybrid battlefield coalitions](https://doi.org/10.1080/01402390.2021.2002692)." *Journal of Strategic Studies* 45(2): 211-233. doi: 10.1080/01402390.2021.2002692.
 
-Reiter, Dan and Scott Wolford. 2022. "[Gender, sexism, and war](https://doi.org/10.1177/09516298211061151)." *Journal of Theoretical Politics*. 34(1): 59-77.
+Reiter, Dan and Scott Wolford. 2022. "[Gender, sexism, and war](https://doi.org/10.1177/09516298211061151)." *Journal of Theoretical Politics* 34(1): 59-77. doi: 10.1177/09516298211061151.
 
-Villa Danielle, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed Regime Change: The Signal of Economic Expropriation](https://doi.org/10.1177/00220027211070604)." *Journal of Conflict Resolution*. 66(4-5): 651-676. 
+Villa Danielle, Daniel Arnon and Dan Reiter. 2022. "[Causes of Foreign-Imposed Regime Change: The Signal of Economic Expropriation](https://doi.org/10.1177/00220027211070604)." *Journal of Conflict Resolution* 66(4-5): 651-676. doi: 10.1177/00220027211070604.
 
-Greenhill, Brian and Dan Reiter. 2022. "[Naming and shaming, government messaging, and backlash effects: Experimental evidence from the Convention Against Torture](https://doi.org/10.1080/14754835.2021.2011710)." *Journal of Human Rights*. 21(4): 399-418.
+Greenhill, Brian and Dan Reiter. 2022. "[Naming and shaming, government messaging, and backlash effects: Experimental evidence from the Convention Against Torture](https://doi.org/10.1080/14754835.2021.2011710)." *Journal of Human Rights* 21(4): 399-418. doi: 10.1080/14754835.2021.2011710.
 
-Reiter, Dan. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://www.dropbox.com/scl/fi/u7787mkowe4thfb8rgx1w/Reiter-ISQ-2021.pdf?rlkey=33mlb2o33enewwq13dd06sstx&dl=0)." *International Studies Quarterly*. 65(3): 582-593.
+Reiter, Dan. 2021. "[Gulliver Unleashed? International Order, Restraint, and The Case of Ancient Athens](https://doi.org/10.1093/isq/sqab061)." *International Studies Quarterly* 65(3): 582-593. doi: 10.1093/isq/sqab061.
 
-Reiter, Dan and Paul Poast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression]( http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review*. 4(3).
+Reiter, Dan and Paul Poast. 2021. "[The Truth About Tripwires: Why Small Force Deployments Do Not Deter Aggression](http://dx.doi.org/10.26153/tsw/13989)." *Texas National Security Review* 4(3). doi: 10.26153/tsw/13989.
 
-Reiter, Dan. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://doi.org/10.1093/fpa/oraa001)." *Foreign Policy Analysis*. 16(3): 312-331.
+Reiter, Dan. 2020. "[Avoiding the Coup-Proofing Dilemma: Consolidating Political Control While Maximizing Military Power](https://doi.org/10.1093/fpa/oraa001)." *Foreign Policy Analysis* 16(3): 312-331. doi: 10.1093/fpa/oraa001.
 
-Fjestul, Joshua C. and Dan Reiter. 2019. "[Explaining incompleteness and conditionality in alliance agreements](https://doi.org/10.1093/fpa/oraa001)." *International Interactions*. 45(6): 976-1002.
+Fjestul, Joshua C. and Dan Reiter. 2019. "[Explaining incompleteness and conditionality in alliance agreements](https://doi.org/10.1093/fpa/oraa001)." *International Interactions* 45(6): 976-1002. doi: 10.1093/fpa/oraa001.
 
-Reiter, Dan and William A. Wagstaff. 2018. "[Leadership and military effectiveness](https://doi.org/10.1093/fpa/orx003)." *Foreign Policy Analysis*. 14(4): 490-511.
+Reiter, Dan and William A. Wagstaff. 2018. "[Leadership and military effectiveness](https://doi.org/10.1093/fpa/orx003)." *Foreign Policy Analysis* 14(4): 490-511. doi: 10.1093/fpa/orx003.
 
-Reiter, Dan. 2018. "[Unifying the Study of the Causes and Duration of Wars](https://doi.org/10.1086/696288)." *Polity*. 50(2): 168-177.
+Reiter, Dan. 2018. "[Unifying the Study of the Causes and Duration of Wars](https://doi.org/10.1086/696288)." *Polity* 50(2): 168-177. doi: 10.1086/696288.
 
-Reiter, Dan. 2017. "[Foreign-Imposed Regime Change](https://doi.org/10.1093/acrefore/9780190228637.013.335)." *Oxford Research Encyclopedia of Politics*.
+Reiter, Dan, Allan C. Stam, and Michael C. Horowitz. 2016. "[A Revised Look at Interstate Wars, 1816–2007](https://doi.org/10.1177/0022002714553107)." *Journal of Conflict Resolution* 60(5): 956–76. doi: 10.1177/0022002714553107. 
 
-Reiter, Dan. 2017. "[Is democracy a cause of peace?](https://doi.org/10.1093/acrefore/9780190228637.013.287)." *Oxford Research Encyclopedia of Politics*.
+Reiter, Dan, Allan C. Stam, and Michael C. Horowitz. 2016a. "[A deeper look at interstate war data: Interstate War Data version 1.1](https://doi.org/10.1177/2053168016683840)." *Research & Politics* 3(4). doi: 10.1177/2053168016683840.
 
-Reiter, Dan, Allan C. Stam, and Michael C. Horowitz. 2016. “[A Revised Look at Interstate Wars, 1816–2007](https://doi.org/10.1177/0022002714553107).” *Journal of Conflict Resolution* 60(5): 956–76. doi: 10.1177/0022002714553107. 
+Reiter, Dan. 2015. "[Should we leave behind the subfield of international relations?](https://doi.org/10.1146/annurev-polisci-053013-041156)." *Annual Review of Political Science* 18: 481-499. doi: 10.1146/annurev-polisci-053013-041156.
 
-Reiter, Dan, Allan C. Stam, and Michael C. Horowitz. 2016. "[A deeper look at interstate war data: Interstate War Data version 1.1](https://doi.org/10.1177/2053168016683840)." *Research & Politics*. 3(4).
+Reiter, Dan. 2015. "[The positivist study of gender and international relations](https://www.jstor.org/stable/24546341)." *Journal of Conflict Resolution*. 59(7): 1301-1326. doi: 10.1177/0022002714560351.
 
-Reiter, Dan. 2015. "[Should we leave behind the subfield of international relations?](https://doi.org/10.1146/annurev-polisci-053013-041156)." *Annual Review of Political Science*. 18: 481-499.
-
-Reiter, Dan. 2015. "[The positivist study of gender and international relations](https://www.jstor.org/stable/24546341)." *Journal of Conflict Resolution*. 59(7): 1301-1326.
-
-Reiter, Dan. 2014. "[Security commitments and nuclear proliferation](https://www.jstor.org/stable/24910787)." *Foreign Policy Analysis*. 10(1): 61-80.
+Reiter, Dan. 2014. "[Security commitments and nuclear proliferation](https://www.jstor.org/stable/24910787)." *Foreign Policy Analysis* 10(1): 61-80. doi: 10.1111/fpa.12004.
 
 Mettler, Simon A. and Dan Reiter. 2013. "[Ballistic missiles and international conflict](https://doi.org/10.1177/00220027124537)." *Journal of Conflict Resolution*. 57(5): 854-880.
 
@@ -145,7 +142,11 @@ Reiter, Dan. Asymmetric Deterrence: War Initiation by Weaker Powers and Coping w
 
 > ## Edited Volumes and Similar Publications
 
-Reiter, Dan. 2019. "[Replicating and Improving Quantitative War Data](https://methods.sagepub.com/case/replicating-and-improving-quantitative-war-data)," SAGE Research Methods Cases, 2019 *doi*:10.4135/9781526465993.
+Reiter, Dan. 2019. "[Replicating and Improving Quantitative War Data](https://methods.sagepub.com/case/replicating-and-improving-quantitative-war-data)," SAGE Research Methods Cases, 2019. doi:10.4135/9781526465993.
+
+Reiter, Dan. 2017. "[Foreign-Imposed Regime Change](https://doi.org/10.1093/acrefore/9780190228637.013.335)." *Oxford Research Encyclopedia of Politics*. doi: 10.1093/acrefore/9780190228637.013.335
+
+Reiter, Dan. 2017. "[Is democracy a cause of peace?](https://doi.org/10.1093/acrefore/9780190228637.013.287)." *Oxford Research Encyclopedia of Politics*. doi:: 10.1093/acrefore/9780190228637.013.287.
 
 Reiter, Dan and Allan C. Stam. 2008. "[Democracy, Peace, and War](https://doi.org/10.1093/oxfordhb/9780199548477.001.0001)", in Donald A. Wittman, and Barry R. Weingast (eds), *The Oxford Handbook of Political Economy*. Oxford Academic Press.
 
