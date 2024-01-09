@@ -22,12 +22,6 @@ Dan Reiter and Allan C. Stam. 2002. [Democracies at War](https://www.amazon.com/
 
 Reiter, Dan. 1996. [Crucible of Beliefs: Learning, Alliances, and World Wars](https://www.amazon.com/Crucible-Beliefs-Learning-Alliances-Security/dp/0801431883). Cornell: Cornell University Press. 
 
-
-> ## Textbooks
-
-Reiter, Dan. eds. 2023, 2024. [Understanding War and Peace](understandingwarandpeace.com). Cambridge, United Kingdom: Cambridge University Press. 
-
-
 > ## Articles, Research Notes, and Correspondence in Refereed Journals
 
 Jud, Stefano and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions* 49(6): 904-934. doi: 10.1080/03050629.2023.2264464.
@@ -72,13 +66,9 @@ Goran Peic and Dan Reiter. 2011. "[Foreign-Imposed Regime Change, State Power an
 
 Reiter, Dan. 2011. "Democratic Aggression and the Search for Victory." *St Antony’s International Review* 7: 172-177.
 
-Reiter, Dan, and Allan C. Stam. 2011. "Correspondence: Another Skirmish in the Battle over Democracies and War," *International Security* 34(2): 194-204. Reprinted in Michael Brown et al, eds, Do Democracies Win Their Wars? (Cambridge: MIT Press), 233-240.
-
 Reiter, Dan and John M. Schuessler. 2010. "[FDR, US Entry into World War II, and Selection Effects Theory](https://www.jstor.org/stable/40981247)." *International Security* 35(2): 176-185. doi: 10.1162/isec_c_00017. 
 
 Reiter, Dan. 2010. "A Lack of Trust: The American Decision to Escalate the Korean War." *21st Century International Review* 1(2) [in Chinese].
-
-Reiter, Dan. 2010. "Correspondence: FDR, U.S. Entry into World War II, and Selection Effects Theory," *International Security* 35(3): 176-181. Reprinted in Michael E. Brown et al, eds, *Do Democracies Win Their Wars?* (Cambridge: MIT Press), 282-289.
 
 Reiter, Dan, Allan C. Stam, and Alexander B. Downes. 2009. "[Another Skirmish in the Battle over Democracies and War](https://www.jstor.org/stable/40389217)." *International Security* 34(2): 194-204. doi: 10.1162/isec.2009.34.2.194.
 
@@ -129,24 +119,6 @@ Reiter, Dan. 1995. “[Exploding the Powder Keg Myth: Preemptive Wars Almost Nev
 
 Reiter, Dan. 1994. "[Learning, Realism, and Alliances: The Weight of the Shadow of the Past](https://doi.org/10.2307/2950716)," *World Politics* 46 (July 1994): 490-526. doi: 10.2307/2950716. Reprinted in Christine Ingebritsen, Iver Neumann, Sieglinde Gstöhle, and Jessica Beyer, eds., *Small States in International Relations* (Seattle: University of Washington Press, 2006, 231-272).
 
-> ## Book Reviews
-
-Reiter, Dan. [The Dictator’s Army: Effectiveness in Authoritarian Regimes](https://issforum.org/roundtables/8-17-dictators-army), in H-Diplo ISSF Roundtable, vol. VIII, no. 17 (2016).
-
-Reiter, Dan. [Leaders at War: How Presidents Shape Military Interventions](https://issforum.org/roundtables/3-8-leaders-at-war), in H-Diplo ISSF Roundtable, vol. III, no. 8 (2012). 
-
-Reiter, Dan. War and Punishment: The Causes of War Termination and the First World War, in Journal of Peace Research 39 (September 2002): 640-641.
-
-Reiter, Dan. Bargaining and Learning in Recurring Crises, in American Political Science Review 95 (June 2001): 520-521.
-
-Reiter, Dan. Causes of War: Power and the Roots of Conflict, in Journal of Politics 62 (November 2000): 1259-1261.
-
-Reiter, Dan. Deadly Imbalances: Tripolarity and Hitler’s Strategy of World Conquest, in American Political Science Review 93 (March 1999): 243-4.
-
-Reiter, Dan. The Price of Peace: Incentives and International Conflict Prevention, Ethnic Conflict Research Digest, The Ethnic Conflict Research Digest 2 (September 1998): 3.
-
-Reiter, Dan. Asymmetric Deterrence: War Initiation by Weaker Powers and Coping with Conflict After the Cold War, Journal of Politics 59 (March 1997): 640-643
-
 
 > ## Edited Volumes and Similar Publications
 
@@ -161,7 +133,4 @@ Reiter, Dan and Allan C. Stam. 2008. "[Democracy, Peace, and War](https://doi.or
 Reiter, Dan. 2007. "[Nationalism and military effectiveness: post-Meiji Japan](https://www.sup.org/books/title/?id=9800)," in Risa A. Brooks and Elizabeth A. Stanley (eds.), *Creating Military Power: The Sources of Military Effectiveness*. Stanford University Press. 27-54.
 
 Reiter, Dan. 2006. "[Preventive attacks against nuclear, biological, and chemical weapons programs: The track record](https://doi.org/10.2307/j.ctv11699qp)," in William W. Keller and Gordon R. Mitchell (eds), *Hitting First: Preventive Force in US Security Strategy*. University of Pittsburg Press. 27-44.
-
-Reiter, Dan. 1994. “[Learning, Realism, and Alliances: The Weight of the Shadow of the Past](https://www.jstor.org/stable/2950716).” *World Politics*. 46(3): 490-526. Reprinted in Christine Ingebritsen, Iver Neumann, Sieglinde Gstöhle, and Jessica Beyer, eds., *Small States in International Relations* (Seattle: University of Washington Press, 2006, 231- 272).
-
 
