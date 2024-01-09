@@ -70,7 +70,15 @@ Wolford, Scott, Dan Reiter, Clifford J. Carrubba. 2011. "[Information, commitmen
 
 Goran Peic and Dan Reiter. 2011. "[Foreign-Imposed Regime Change, State Power and Civil War Onset, 1920–2004](https://doi.org/10.1017/S0007123410000426)." *British Journal of Political Science* 41(3): 453-475. doi: 10.1017/S0007123410000426.
 
+Reiter, Dan. 2011. "Democratic Aggression and the Search for Victory." *St Antony’s International Review* 7: 172-177.
+
+Reiter, Dan, and Allan C. Stam. 2011. "Correspondence: Another Skirmish in the Battle over Democracies and War," *International Security* 34(2): 194-204. Reprinted in Michael Brown et al, eds, Do Democracies Win Their Wars? (Cambridge: MIT Press), 233-240.
+
 Reiter, Dan and John M. Schuessler. 2010. "[FDR, US Entry into World War II, and Selection Effects Theory](https://www.jstor.org/stable/40981247)." *International Security* 35(2): 176-185. doi: 10.1162/isec_c_00017. 
+
+Reiter, Dan. 2010. "A Lack of Trust: The American Decision to Escalate the Korean War." *21st Century International Review* 1(2) [in Chinese].
+
+Reiter, Dan. 2010. "Correspondence: FDR, U.S. Entry into World War II, and Selection Effects Theory," *International Security* 35(3): 176-181. Reprinted in Michael E. Brown et al, eds, *Do Democracies Win Their Wars?* (Cambridge: MIT Press), 282-289.
 
 Reiter, Dan, Allan C. Stam, and Alexander B. Downes. 2009. "[Another Skirmish in the Battle over Democracies and War](https://www.jstor.org/stable/40389217)." *International Security* 34(2): 194-204. doi: 10.1162/isec.2009.34.2.194.
 
@@ -91,7 +99,7 @@ Box-Steffensmeier, Janet M., Dan Reiter, and Christopher Zorn. 2003. "[Nonpropor
 
 Dan Reiter and Allan C. Stam. 2003. "[Identifying the Culprit: Democracy, Dictatorship, and Dispute Initiation](https://www.jstor.org/stable/3118212)." *American Political Science Review* 97(2): 333-337. doi: 10.1017/s0003055403000704.
 
-Reiter, Dan and Allan C. Stam. 2003. "[Understanding Victory: Why Political Institutions Matter](https://www.jstor.org/stable/4137580)." *International Security* 28(1): 168-179. doi: 10.1162/016228803322428027.
+Reiter, Dan and Allan C. Stam. 2003. "[Understanding Victory: Why Political Institutions Matter](https://www.jstor.org/stable/4137580)." *International Security* 28(1): 168-179. doi: 10.1162/016228803322428027. Reprinted in Michael E. Brown et al, eds, Do Democracies Win Their Wars? (Cambridge: MIT Press, 2011), 163-174.
 
 Reiter, Dan and Erik R. Tillman. 2002. "[Public, Legislative, and Executive Constraints on the Democratic Initiation of Conflict](https://www.jstor.org/stable/1520114)." *Journal of Politics* 64(3): 810-826. doi: 10.1111/0022-3816.00147.
 
@@ -118,6 +126,8 @@ Rousseau, David, Christopher Gelpi, Dan Reiter, and Paul K. Huth. 1996. “[Asse
 Reiter, Dan. 1995. “[Political Structure and Foreign Policy Learning: Are Democracies More Likely to Act on the Lessons of History?](https://doi.org/10.1080/03050629508434859)” *International Interactions* 21(1): 39-62. doi: 10.1080/03050629508434859.
 
 Reiter, Dan. 1995. “[Exploding the Powder Keg Myth: Preemptive Wars Almost Never Happen](https://www.jstor.org/stable/2539227).” *International Security* 20(3): 5-34. doi: 10.2307/2539227.
+
+Reiter, Dan. 1994. "[Learning, Realism, and Alliances: The Weight of the Shadow of the Past](https://doi.org/10.2307/2950716)," *World Politics* 46 (July 1994): 490-526. doi: 10.2307/2950716. Reprinted in Christine Ingebritsen, Iver Neumann, Sieglinde Gstöhle, and Jessica Beyer, eds., *Small States in International Relations* (Seattle: University of Washington Press, 2006, 231-272).
 
 > ## Book Reviews
 
