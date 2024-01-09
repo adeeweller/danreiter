@@ -11,7 +11,7 @@ title: "Research"
 
 > ## Books and Monographs
 
-Reiter, Dan. (editor). 2017. [The Sword’s Other Edge: Tradeoffs in the Pursuit of Military Effectiveness](https://www.amazon.com/Swords-Other-Edge-Trade-offs-Effectiveness/dp/1108404138/ref=sr_1_1?s=books&ie=UTF8&qid=1538355987&sr=1-1&keywords=The+Sword%E2%80%99s+Other+Edge%3A+Tradeoffs+in+the+Pursuit+of+Military+Effectiveness). Cambridge: Cambridge University Press. 
+Reiter, Dan (ed.). 2017. [The Sword’s Other Edge: Tradeoffs in the Pursuit of Military Effectiveness](https://www.amazon.com/Swords-Other-Edge-Trade-offs-Effectiveness/dp/1108404138/ref=sr_1_1?s=books&ie=UTF8&qid=1538355987&sr=1-1&keywords=The+Sword%E2%80%99s+Other+Edge%3A+Tradeoffs+in+the+Pursuit+of+Military+Effectiveness). Cambridge: Cambridge University Press. 
 
 Reiter, Dan. 2009. [How Wars End](https://www.amazon.com/How-Wars-End-Dan-Reiter/dp/069114060X). Princeton: Princeton University Press.
 
