@@ -22,7 +22,7 @@ Dan Reiter and Allan C. Stam. 2002. [Democracies at War](https://www.amazon.com/
 
 Reiter, Dan. 1996. [Crucible of Beliefs: Learning, Alliances, and World Wars](https://www.amazon.com/Crucible-Beliefs-Learning-Alliances-Security/dp/0801431883). Cornell: Cornell University Press. 
 
-> ## Articles, Research Notes, and Correspondence in Refereed Journals
+> ## Articles and Research Notes in Refereed Journals
 
 Jud, Stefano and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions* 49(6): 904-934. doi: 10.1080/03050629.2023.2264464.
 
