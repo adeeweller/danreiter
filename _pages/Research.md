@@ -24,7 +24,7 @@ Reiter, Dan. 1996. [Crucible of Beliefs: Learning, Alliances, and World Wars](ht
 
 > ## Articles and Research Notes in Refereed Journals
 
-Jud, Stefano and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions* 49(6): 904-934. doi: 10.1080/03050629.2023.2264464. [pdf](https://www.dropbox.com/scl/fi/fr6jyewy87ygkf563q373/Jud-and-Reiter-II-2023.pdf?rlkey=1ahnmnbq7kbp9ai2j7q0qxarf&dl=0)
+Jud, Stefano and Dan Reiter. 2023. "[Populism, Party Ideology, and Economic Expropriations](https://doi.org/10.1080/03050629.2023.2264464)." *International Interactions* 49(6): 904-934. doi: 10.1080/03050629.2023.2264464. [\[pdf\]](https://www.dropbox.com/scl/fi/fr6jyewy87ygkf563q373/Jud-and-Reiter-II-2023.pdf?rlkey=1ahnmnbq7kbp9ai2j7q0qxarf&dl=0)
 
 Reiter, Dan. 2023. "[Command and Military Effectiveness in Rebel and Hybrid Battlefield Coalitions](https://doi.org/10.1080/01402390.2021.2002692)." *Journal of Strategic Studies* 45(2): 211-233. doi: 10.1080/01402390.2021.2002692. [pdf](https://www.dropbox.com/scl/fi/qppzgmtb0ws35m8ubm8nc/Reiter-JSS-2022.pdf?rlkey=b69nm8tgcxyhl30z0mazfrtxq&dl=0)
 
