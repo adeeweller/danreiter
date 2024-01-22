@@ -9,13 +9,13 @@ classes: wide
 
 Some of my primary personal interests include hiking, bouldering, travel, 1950s and 1960s jazz, 1970s films, 1980 and 1990s metal and grunge music, Japanese fiction on screen and the page, and University of Michigan sports. One of my lifetime projects is to climb the highest point in each of the fifty states. So far, I have bagged forty-seven, including:
 
-[California, 2001](/assets/images/cawhitney.jpe) (el. 14,494 ft.)
+[California, 2001](assets/images/cawhitney.jpe) (el. 14,494 ft.)
 
-[Colorado, 2009](/assets/images/CO.jpe) (el. 14,433 ft.)
+[Colorado, 2009](assets/images/CO.jpe) (el. 14,433 ft.)
 
-[Washington, 2012](/assets/images/washington.jpe) (el. 14,409 ft.)
+[Washington, 2012](assets/images/washington.jpe) (el. 14,409 ft.)
 
-[Hawaii, 2005](/assets/images/hawaii.jpe) (el. 13,796 ft.)
+[Hawaii, 2005](assets/images/hawaii.jpe) (el. 13,796 ft.)
 
 [Utah, 2011](/assets/images/utah.jpe) (el. 13,528)
 
