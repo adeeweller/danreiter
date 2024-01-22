@@ -11,15 +11,15 @@ Some of my primary personal interests include hiking, bouldering, travel, 1950s 
 
 [California, 2001](assets/images/cawhitney.jpe) (el. 14,494 ft.)
 
-[Colorado, 2009](../assets/images/CO.jpe) (el. 14,433 ft.)
+[Colorado, 2009](assets/images/CO.jpg) (el. 14,433 ft.)
 
-[Washington, 2012](../assets/images/washington.jpe) (el. 14,409 ft.)
+[Washington, 2012](../assets/images/washington.jpg) (el. 14,409 ft.)
 
-[Hawaii, 2005](../assets/images/hawaii.jpe) (el. 13,796 ft.)
+[Hawaii, 2005](../assets/images/hawaii.jpg) (el. 13,796 ft.)
 
-[Utah, 2011](/assets/images/utah.jpe) (el. 13,528)
+[Utah, 2011](/assets/images/utah.jpg) (el. 13,528)
 
-[New Mexico, 2009](/assets/images/nm.jpe) (el. 13,161 ft.)
+[New Mexico, 2009](/assets/images/nm.jpg) (el. 13,161 ft.)
 
 [Nevada, 2001](/assets/images/nvboundary.jpe) (el. 13,143 ft.)
 
