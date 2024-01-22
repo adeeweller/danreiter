@@ -15,23 +15,23 @@ Some of my primary personal interests include hiking, bouldering, travel, 1950s 
 
 [Washington, 2012](/assets/images/washington.jpe) (el. 14,409 ft.)
 
-[Hawaii](/assets/images/hawaii.jpe), 2005 (el. 13,796 ft.)
+[Hawaii, 2005](/assets/images/hawaii.jpe) (el. 13,796 ft.)
 
-[Utah](/assets/images/utah.jpe), 2011 (el. 13,528)
+[Utah, 2011](/assets/images/utah.jpe) (el. 13,528)
 
-[New Mexico](/assets/images/nm.jpe), 2009 (el. 13,161 ft.)
+[New Mexico, 2009](/assets/images/nm.jpe) (el. 13,161 ft.)
 
-[Nevada](/assets/images/nvboundary.jpe), 2001 (el. 13,143 ft.)
+[Nevada, 2001](/assets/images/nvboundary.jpe) (el. 13,143 ft.)
 
-[Montana](/assets/images/montana_8-16.jpe), 2016 (el. 12,799)
+[Montana, 2016](/assets/images/montana_8-16.jpe) (el. 12,799)
 
-[Idaho](/assets/images/idaho.jpe), 2013 (el. 12,667 ft.)
+[Idaho, 2013](/assets/images/idaho.jpe) (el. 12,667 ft.)
 
-[Arizona](/assets/images/arizona.jpe), 2007 (el. 12,633 ft.)
+[Arizona, 2007](/assets/images/arizona.jpe) (el. 12,633 ft.)
 
-[Texas](/assets/images/taxashigh_point.png),  2010 (el. 8,749 ft.)
+[Texas, 2010](/assets/images/taxashigh_point.png) (el. 8,749 ft.)
 
-[South Dakota](/assets/images/sdhipt.jpe), 2008 (el. 7,242 ft.)
+[South Dakota, 2008](/assets/images/sdhipt.jpe) (el. 7,242 ft.)
 
 North Carolina (el. 6,684 ft.)
 
@@ -39,15 +39,15 @@ North Carolina (el. 6,684 ft.)
 
 New Hampshire, 1995 (el. 6,288 ft.)
 
-[Virginia](/assets/images/mtrogers.jpe), 2001 (el. 5,729 ft.)
+[Virginia, 2001](/assets/images/mtrogers.jpe) (el. 5,729 ft.)
 
 New York (el. 5,344 ft.)
 
-[Maine](/assets/images/maine04.jpe), 2004 (el. 5,268 ft.)
+[Maine, 2004](/assets/images/maine04.jpe) (el. 5,268 ft.)
 
-[Nebraska](/assets/images/nebhipt.jpe), 2008 (el. 5,242 ft.)
+[Nebraska, 2008](/assets/images/nebhipt.jpe) (el. 5,242 ft.)
 
-[Oklahoma](/assets/images/oklahoma-high-point-2018-e1540489805613.jpg), 2018 (el. 4,973 ft.)
+[Oklahoma, 2018](/assets/images/oklahoma-high-point-2018-e1540489805613.jpg) (el. 4,973 ft.)
 
 West Virginia (el. 4,863 ft.)
 
@@ -61,47 +61,47 @@ Kansas, 1998 (el. 4,039 ft.)
 
 South Carolina (el. 3,560 ft.)
 
-[North Dakota](/assets/images/ndhipt.jpe), 2008 (el. 3,506 ft.)
+[North Dakota, 2008](/assets/images/ndhipt.jpe) (el. 3,506 ft.)
 
-[Massachussetts](/assets/images/mamtgreylock.jpe), 2000 (el. 3,491 ft.)
+[Massachussetts, 2000](/assets/images/mamtgreylock.jpe) (el. 3,491 ft.)
 
-[Maryland](/assets/images/mdhipoint.jpe), 2004 (el. 3,360 ft.)
+[Maryland, 2004](/assets/images/mdhipoint.jpe) (el. 3,360 ft.)
 
-[Pennsylvania](/assets/images/pahipoint02.jpe), 2004 (el. 3,213 ft.)
+[Pennsylvania, 2004](/assets/images/pahipoint02.jpe) (el. 3,213 ft.)
 
-[Arkansas](/assets/images/arkansas_2015.jpe), 2015 (el. 2,753)
+[Arkansas, 2015](/assets/images/arkansas_2015.jpe) (el. 2,753)
 
 Alabama (el. 2,407 ft.)
 
-[Connecticut](/assets/images/ctfrissell.jpe), 2001 (el. 2,380 ft.)
+[Connecticut, 2001](/assets/images/ctfrissell.jpe) (el. 2,380 ft.)
 
-[Minnesota](/assets/images/minn.jpe), 2019 (el. 2301 ft.)
+[Minnesota, 2019](/assets/images/minn.jpe) (el. 2301 ft.)
 
 Michigan, 2013 (el. 1,979 ft.)
 
-[Wisconsin](/assets/images/wisconsin.jpe), 2001 (el. 1,951 ft.)
+[Wisconsin, 2001](/assets/images/wisconsin.jpe) (el. 1,951 ft.)
 
-[New Jersey](/assets/images/njkittatiny.jpe), 2000 (el. 1,803 ft.)
+[New Jersey, 2000](/assets/images/njkittatiny.jpe) (el. 1,803 ft.)
 
-[Missouri](/assets/images/missouri.jpe), 2015 (el. 1,772 ft.)
+[Missouri, 2015](/assets/images/missouri.jpe) (el. 1,772 ft.)
 
-[Iowa](/assets/images/iowahipoint10-04.jpe), 2005 (el. 1670 ft.)
+[Iowa, 2005](/assets/images/iowahipoint10-04.jpe) (el. 1670 ft.)
 
-[Ohio](/assets/images/ohio.jpe), 2002 (el. 1,550 ft.)
+[Ohio, 2002](/assets/images/ohio.jpe) (el. 1,550 ft.)
 
-[Indiana](/assets/images/dani_indiana_summit_3.jpe), 2002 (el. 1,257 ft.)
+[Indiana, 2002](/assets/images/dani_indiana_summit_3.jpe) (el. 1,257 ft.)
 
 Illinois, 2003 (el. 1,235 ft.) 
 
 Rhode Island (el. 812 ft.)
 
-[Mississippi](/assets/images/miss.jpe), 2001 (el. 806 ft.)
+[Mississippi, 2001](/assets/images/miss.jpe) (el. 806 ft.)
 
 Louisiana, 2002 (el. 535 ft.)
 
 Delaware, (el. 448 ft.)
 
-[Florida](/assets/images/florida.jpe), 2001 (el. 345 ft.)
+[Florida, 2001](/assets/images/florida.jpe) (el. 345 ft.)
 
 
 
