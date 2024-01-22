@@ -85,7 +85,7 @@ Michigan, 2013 (el. 1,979 ft.)
 
 [Missouri, 2015](/assets/images/missouri.jpg) (el. 1,772 ft.)
 
-[Iowa, 2005](/assets/images/iowahipoint10-04.jpg) (el. 1670 ft.)
+[Iowa, 2005](/assets/images/iowahipoint11-05.jpg) (el. 1670 ft.)
 
 [Ohio, 2002](/assets/images/ohio.jpg) (el. 1,550 ft.)
 
