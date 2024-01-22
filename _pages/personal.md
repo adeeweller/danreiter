@@ -29,7 +29,7 @@ Some of my primary personal interests include hiking, bouldering, travel, 1950s 
 
 [Arizona, 2007](/assets/images/arizona.jpg) (el. 12,633 ft.)
 
-[Texas, 2010](/assets/images/taxashigh_point.png) (el. 8,749 ft.)
+[Texas, 2010](/assets/images/texashigh_point.png) (el. 8,749 ft.)
 
 [South Dakota, 2008](/assets/images/sdhipt.jpg) (el. 7,242 ft.)
 
