@@ -65,7 +65,7 @@ South Carolina (el. 3,560 ft.)
 
 [Massachussetts, 2000](/assets/images/mamtgreylock.jpg) (el. 3,491 ft.)
 
-[Maryland, 2004](/assets/images/mdhipoint.jpg) (el. 3,360 ft.)
+[Maryland, 2004](/assets/images/mdhipoint10-04.jpg) (el. 3,360 ft.)
 
 [Pennsylvania, 2004](/assets/images/pahipoint02.jpg) (el. 3,213 ft.)
 
