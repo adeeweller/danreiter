@@ -69,7 +69,7 @@ South Carolina (el. 3,560 ft.)
 
 [Pennsylvania, 2004](/assets/images/pahipoint02.jpg) (el. 3,213 ft.)
 
-[Arkansas, 2015](/assets/images/arkansas_2015.jpg) (el. 2,753)
+[Arkansas, 2015](/assets/images/arkansas_2015_n.jpg) (el. 2,753)
 
 Alabama (el. 2,407 ft.)
 
