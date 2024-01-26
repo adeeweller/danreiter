@@ -47,7 +47,7 @@ Nigel Lo, Dan Reiter, and Barry Hashimoto, “Ensuring Peace: Foreign-Imposed Re
 [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YYUVW7) for Dan Reiter & Allan Stam, "Democracy, War Initiation, and Victory," *American Political Science Review* 92 (April 1998): 377-389.
 
 
-Interstate War Data, co-created with Allan C. Stam and Michael C. Horowitz
+[Interstate War Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WGS1YX), co-created with Allan C. Stam and Michael C. Horowitz
 
 [\[Version 1.0 in EXCEL\]](https://www.dropbox.com/s/avvhmwpott353n2/IWD10.xlsx?dl=0), described in our 2016 *Journal of Conflict Resolution* article
 
