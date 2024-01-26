@@ -89,7 +89,7 @@ Box-Steffensmeier, Janet M., Dan Reiter, and Christopher Zorn. 2003. "[Nonpropor
 
 Dan Reiter and Allan C. Stam. 2003. "[Identifying the Culprit: Democracy, Dictatorship, and Dispute Initiation](https://www.jstor.org/stable/3118212)." *American Political Science Review* 97(2): 333-337. doi: 10.1017/s0003055403000704. [\[pdf\]](https://www.dropbox.com/scl/fi/vt7ooeq0skqfsydinq62m/Reiter-Stam-APSR-2003.pdf?rlkey=90zio07f6rq17a9pa7xexdbmb&dl=0)
 
-Reiter, Dan and Allan C. Stam. 2003. "[Understanding Victory: Why Political Institutions Matter](https://www.jstor.org/stable/4137580)." *International Security* 28(1): 168-179. doi: 10.1162/016228803322428027. Reprinted in Michael E. Brown et al, eds, Do Democracies Win Their Wars? (Cambridge: MIT Press, 2011), 163-174. [\[pdf\]](https://www.dropbox.com/scl/fi/zyjc11uk8e54e5ood3vcg/Reiter-Stam-IS-2003.pdf?rlkey=565sz5l0g92ncesr3t8ft5jko&dl=0)
+Reiter, Dan and Allan C. Stam. 2003. "[Understanding Victory: Why Political Institutions Matter](https://www.jstor.org/stable/4137580)." *International Security* 28(1): 168-179. doi: 10.1162/016228803322428027. Reprinted in Michael E. Brown et al, eds, *Do Democracies Win Their Wars?* (Cambridge: MIT Press, 2011), 163-174. [\[pdf\]](https://www.dropbox.com/scl/fi/zyjc11uk8e54e5ood3vcg/Reiter-Stam-IS-2003.pdf?rlkey=565sz5l0g92ncesr3t8ft5jko&dl=0)
 
 Reiter, Dan and Erik R. Tillman. 2002. "[Public, Legislative, and Executive Constraints on the Democratic Initiation of Conflict](https://www.jstor.org/stable/1520114)." *Journal of Politics* 64(3): 810-826. doi: 10.1111/0022-3816.00147. [\[pdf\]](https://www.dropbox.com/scl/fi/8kkpc3sysu4qmrn1afonj/Reiter-Tillman-JOP-2002.pdf?rlkey=5pnz83h2dgv29msph2mk0zpvi&dl=0)
 
@@ -132,5 +132,5 @@ Reiter, Dan and Allan C. Stam. 2008. "[Democracy, Peace, and War](https://doi.or
 
 Reiter, Dan. 2007. "[Nationalism and military effectiveness: post-Meiji Japan](https://www.sup.org/books/title/?id=9800)," in Risa A. Brooks and Elizabeth A. Stanley (eds.), *Creating Military Power: The Sources of Military Effectiveness*. Stanford University Press. 27-54.
 
-Reiter, Dan. 2006. "[Preventive attacks against nuclear, biological, and chemical weapons programs: The track record](https://doi.org/10.2307/j.ctv11699qp)," in William W. Keller and Gordon R. Mitchell (eds), *Hitting First: Preventive Force in US Security Strategy*. University of Pittsburg Press. 27-44.
+Reiter, Dan. 2006. "[Preventive attacks against nuclear, biological, and chemical weapons programs: The track record](https://doi.org/10.2307/j.ctv11699qp)," in William W. Keller and Gordon R. Mitchell (eds), *Hitting First: Preventive Force in US Security Strategy*. University of Pittsburgh Press. 27-44.
 
