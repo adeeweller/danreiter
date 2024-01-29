@@ -7,9 +7,6 @@ title: "Teaching"
 classes: wide
 ---
 
-**Info Notice:** This site is currently under construction. Check back soon.
-{: .notice--info}
-
 I teach undergraduate and graduate classes on international relations. Here are some classes I’ve taught recently:
 
 * Political Science 510, [World Politics](https://www.dropbox.com/scl/fi/ii2dybewz4ijrbjgoso8j/ps510sylsp24.pdf?rlkey=bcd3x3nkshsmlspqb317ioy2u&dl=0)
