@@ -6,8 +6,6 @@ permalink: /research/
 title: "Research"
 ---
 
-**Info Notice:** This site is currently under construction. Check back soon.
-{: .notice--info}
 
 > ## Books and Monographs
 
