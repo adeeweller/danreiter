@@ -5,8 +5,6 @@ layout: splash
 classes: wide
 ---
 
-**Info Notice:** This site is currently under construction. Check back soon.
-{: .notice--info}
 
 Dr. Dan Reiter is the Samuel Candler Dobbs Professor of Political Science at Emory University. His scholarly interests include interstate conflict, gender and international relations, civil-military relations, alliances, military effectiveness, public opinion and foreign policy, war termination, and others. He earned his B.A. in political science from Northwestern University in 1989 and his Ph.D. in political science from the University of Michigan in 1994, and was a post-doctoral fellow at the John M. Olin Institute at Harvard University from 1994-1995. In 2002, he was given the Karl Deutsch Award from the International Studies Association, presented annually to a scholar under age 40 or within ten years of having received the Ph.D. “who is judged to have made (through a body of publications) the most significant contribution to the study of International Relations and Peace Research.”
 <br />  <br />
