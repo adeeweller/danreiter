@@ -4,8 +4,6 @@ title: "Personal"
 classes: wide
 ---
 
-**Info Notice:** This site is currently under construction. Check back soon.
-{: .notice--info}
 
 Some of my primary personal interests include hiking, bouldering, travel, 1950s and 1960s jazz, 1970s films, 1980 and 1990s metal and grunge music, Japanese fiction on screen and the page, and University of Michigan sports. One of my lifetime projects is to climb the highest point in each of the fifty states. So far, I have bagged forty-seven, including:
 
